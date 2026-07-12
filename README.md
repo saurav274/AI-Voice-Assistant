@@ -48,7 +48,7 @@ AI-Voice-Assistant/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Voice-Assistant.git
+git clone https://github.com/saurav274/AI-Voice-Assistant.git
 ```
 
 ### 2. Navigate to the project
