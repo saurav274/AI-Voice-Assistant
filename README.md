@@ -4,7 +4,7 @@ A simple AI-powered voice assistant built with Python that can recognize voice c
 
 ## 👨‍💻 Author
 
-Created by **Saurav** as part of my journey into AI Engineering and Python development.
+Developed by **Saurav** as a personal project to practice Python, APIs, and AI development.
 
 ## ✨ Features
 
@@ -14,7 +14,7 @@ Created by **Saurav** as part of my journey into AI Engineering and Python devel
 - 🌐 Open websites with voice commands
 - 💻 Launch desktop applications
 
-Note: app paths in apps.py are hardcoded to my machine — update apps.py with your own shortcut paths to use app-opening commands
+ Note: app paths in apps.py are hardcoded to my machine — update apps.py with your own shortcut paths to use app-opening commands
 
 - 🔒 Secure API key using environment variables (.env)
 - 📦 Modular project structure
