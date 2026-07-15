@@ -2,18 +2,28 @@
 .venv/
 
 # Environment Variables
-API.env
+.env
 
 # Python Cache
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
 
-# Generated Audio
-voice.wav
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
 
-# VS Code Settings
+# IDE Settings
 .vscode/
+.idea/
 
 # Operating System Files
 .DS_Store
 Thumbs.db
+
+# Audio Files (generated while running)
+voice.wav
+
+# Logs
+*.log
