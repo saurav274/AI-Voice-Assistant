@@ -38,7 +38,6 @@ This project was built to practice **Python, APIs, MySQL, Git/GitHub, modular pr
 AI-Voice-Assistant/
 │
 ├── main.py              # Main voice assistant
-├── database.py          # MySQL connection and database functions
 ├── website.py           # Opens websites using MySQL
 ├── requirements.txt     # Project dependencies
 ├── .env.example         # Environment variable template
